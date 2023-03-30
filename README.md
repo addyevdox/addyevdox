@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm Addy Lee! </h2>
+<h2> Hi there 👋 </h2>
  
 
 
