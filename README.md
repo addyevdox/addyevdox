@@ -29,5 +29,5 @@ __Python, Excel, Pandas, Plotly, Dash__
 
 ### Web and Mobile Technology
 
-__php, Java and Kotlin, Golang, Node, React, Angular, Vue, Next.js__
+__php, Java and Kotlin, Golang, Node, React, Angular, Vue, Next.js, React Native, Ionic__
 
