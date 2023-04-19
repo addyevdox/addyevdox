@@ -8,7 +8,7 @@
 I'm an avid Smart Contract/Blockchain Software Engineer with an experience in Blockchains like EOS, WAX, Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, NEO & its derivative chains.
 
 ### Bio
-A Tech Entrepreneur having 6 years of experience in Software development - Data Science, Bots, Android, but specialized in Blockchain protocols like EOSIO, EVM, Solana. He was the founding CTO of DRIFE, Lead Blockchain Developer of Boot Finance, Senior Blockchain Engineer at Master Ventures. He has developed several projects related to NFT, DeFi, Betting game and in utility category. I also built the product called 'BitInfoCoin' which was featured with crypto information, prices, nearby ATMs. He was also one of the winners in hackathons like WBS, SNI. He is committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
+A Tech Entrepreneur having 6 years of experience in Software development - Data Science, Bots, Android, Trading but specialized in Blockchain protocols like EOSIO, EVM, Solana. He was the founding CTO of DRIFE, Lead Blockchain Developer of Boot Finance, Senior Blockchain Engineer at Master Ventures. He has developed several projects related to NFT, DeFi, Betting game and in utility category. I also built the product called 'BitInfoCoin' which was featured with crypto information, prices, nearby ATMs. He was also one of the winners in hackathons like WBS, SNI. He is committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
 
 
 
