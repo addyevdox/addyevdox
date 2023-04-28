@@ -27,7 +27,7 @@ A Tech Entrepreneur having 6 years of experience in Software development - Data 
 
 __Python, Excel, Pandas, Plotly, Dash__
 
-### Web and Mobile Technology
+### Web and Mobile, Desktop Technology
 
 __php, Java and Kotlin, Golang, Node, React, Next.js, Dart, Flutter, React, Ionic__
 
