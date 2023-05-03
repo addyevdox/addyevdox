@@ -25,7 +25,7 @@ A Tech Entrepreneur having 6 years of experience in Software development - Data 
 ### Data Science
 <img src="./img/DataScience_languages.png" alt="Data Science languages" width="180"/>
 
-__Python__, Excel, Pandas, Plotly, Dash__
+__Python__, __Excel__, Pandas, Plotly, Dash__
 
 ### Web and Mobile, Desktop Technology
 
