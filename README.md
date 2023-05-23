@@ -29,5 +29,5 @@ __Python__, __Excel__, __Pandas__, __Plotly__, __Dash__
 
 ### Web and Mobile, Desktop Technology
 
-__php__, __Java__ __and__ __Kotlin__, __Golang__, __Node__, React, Next.js, __Dart__, Flutter, React, Ionic__
+__php__, __Java__ __and__ __Kotlin__, __Golang__, __Node__, __React__, Next.js, __Dart__, Flutter, React, Ionic__
 
