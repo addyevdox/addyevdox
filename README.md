@@ -15,7 +15,7 @@ A Tech Entrepreneur having 6 years of experience in Software development - Data 
 ### Blockchain
  <img src="./img/blockchain_languages.jpg" alt="Blockchain languages" width="220"/>
  
- __C++__, __Solidity__, __Move__, __Vyper__, __Rust__
+ __C++__, __Go__, __Rust__, __Solidity__, __Move__, __Vyper__
  
 <img src="./img/blockchain_testing_frameworks.png" alt="Hardhat" width="150"/>
 
